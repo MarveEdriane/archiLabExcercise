@@ -1,0 +1,22 @@
+ListOfItems = ''
+DeliveryFees = ''
+Discount = ''
+TotalAmount = ''
+
+def addItem():
+    print('Adding Item.')
+
+def removeItems():
+    print('Removing Item.')
+
+def selectDeliveryOption():
+    print('Please select delivery option.')
+
+def applyDiscount():
+    print('Discount applied.')
+
+def calculateTotal():
+    print('Calculating total.')
+
+def checkout():
+    print('Items has been Checked out.')
